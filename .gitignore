@@ -1,0 +1,16 @@
+.gradle/
+build/
+/app/build/
+**/build/
+local.properties
+.env
+*.jks
+*.keystore
+!debug.keystore
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+*.log
